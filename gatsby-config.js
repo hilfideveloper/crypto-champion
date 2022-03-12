@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+    pathPrefix: "/crypto-champion",
     siteMetadata: {
         title: `TestGatsby`,
         siteUrl: `https://cryptochampion.game`,
