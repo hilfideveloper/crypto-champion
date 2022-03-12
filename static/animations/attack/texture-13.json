@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "attack_laugh_094.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 579,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 199,
+        "w": 579,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_095.png": {
+      "frame": {
+        "x": 0,
+        "y": 673,
+        "w": 579,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 195,
+        "w": 579,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_096.png": {
+      "frame": {
+        "x": 579,
+        "y": 0,
+        "w": 570,
+        "h": 686
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 186,
+        "w": 570,
+        "h": 686
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_097.png": {
+      "frame": {
+        "x": 0,
+        "y": 1350,
+        "w": 556,
+        "h": 694
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 178,
+        "w": 556,
+        "h": 694
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_098.png": {
+      "frame": {
+        "x": 579,
+        "y": 686,
+        "w": 551,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 173,
+        "w": 551,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_099.png": {
+      "frame": {
+        "x": 1149,
+        "y": 0,
+        "w": 557,
+        "h": 699
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 173,
+        "w": 557,
+        "h": 699
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_100.png": {
+      "frame": {
+        "x": 1149,
+        "y": 699,
+        "w": 549,
+        "h": 695
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 177,
+        "w": 549,
+        "h": 695
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_131.png": {
+      "frame": {
+        "x": 556,
+        "y": 1394,
+        "w": 474,
+        "h": 626
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 146,
+        "y": 246,
+        "w": 474,
+        "h": 626
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_138.png": {
+      "frame": {
+        "x": 1030,
+        "y": 1394,
+        "w": 434,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 189,
+        "y": 245,
+        "w": 434,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_139.png": {
+      "frame": {
+        "x": 1464,
+        "y": 1394,
+        "w": 433,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 190,
+        "y": 244,
+        "w": 433,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture-13.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1897,
+      "h": 2044
+    },
+    "scale": 1
+  }
+}

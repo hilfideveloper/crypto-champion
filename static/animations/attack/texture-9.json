@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "attack_laugh_061.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1452,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 276,
+        "y": 248,
+        "w": 1452,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_062.png": {
+      "frame": {
+        "x": 0,
+        "y": 624,
+        "w": 1482,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 276,
+        "y": 248,
+        "w": 1482,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_063.png": {
+      "frame": {
+        "x": 0,
+        "y": 1248,
+        "w": 1511,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 274,
+        "y": 248,
+        "w": 1511,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_083.png": {
+      "frame": {
+        "x": 1482,
+        "y": 0,
+        "w": 540,
+        "h": 682
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 190,
+        "w": 540,
+        "h": 682
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_125.png": {
+      "frame": {
+        "x": 1511,
+        "y": 682,
+        "w": 536,
+        "h": 679
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 193,
+        "w": 536,
+        "h": 679
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_126.png": {
+      "frame": {
+        "x": 1511,
+        "y": 1361,
+        "w": 527,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 202,
+        "w": 527,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture-9.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2047,
+      "h": 2031
+    },
+    "scale": 1
+  }
+}

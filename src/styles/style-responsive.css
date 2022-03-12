@@ -1,0 +1,111 @@
+@media only screen and (min-width: 769px) and (max-width: 1281px) {
+    /* header */
+    .logo-kecil img {
+        width: 135px;
+    }
+    .text-kecil a {
+        font-size: 16px;
+    }
+    .text-responsive span {
+        font-size: 16px!important;
+        left: 20px!important;
+    }
+    .text-responsive svg {
+        width: 30px;
+    }
+    /* hero  */
+    .herro-hidden {
+        display: none;
+    }
+    /* gallery */
+    .gallery {
+        margin-top: 120px!important;
+    }
+    .gallery img {
+        width: 100%;
+    }
+    /* slider fight */
+    .slider-fight {
+        padding-right: 30px;
+        padding-left: 30px;
+        box-sizing: border-box;
+    }
+    .slider-fight h4 {
+        font-size: 36px;
+    }
+    .gameplay .font-gameplay {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .deskripsi-sugus {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+    .deskripsi-gameplay {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .deskripsi-gameplay .text-kecilnya {
+        font-size: 15px;
+    }
+    /* stake */
+    .stake h4 {
+        font-size: 41px;
+        padding: 0 50px 0 0;
+    }
+    .stake .tombolkiri {
+        margin-right: 60px;
+        width: 80%;
+    }
+    .inti {
+        display: flex;
+        justify-content: center;
+    }
+    /* team */
+    .tim-tengah {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    /* dokumen */
+    .inti .buku img {
+        display: none;
+    }
+    .dokumen {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .buku-anom {
+        width: 100%;
+    }
+    .buku-anom .kotok {
+        margin-left: 80px;
+    }
+    .buku-anom .dilebuan {
+        margin-left: 50px;
+    }
+    .buku-anom .catatan-anom {
+        margin-right: 220px;
+    }
+    .gallery .gallery1 {
+        right: 100px!important;
+    }
+    .gallery .gallery2 {
+        right: -35px!important;
+    }
+    .gallery .gallery3 {
+        left: -30px!important;
+    }
+    .gallery .gallery4 {
+        left: 130px!important;
+    }
+}
+
+@media (max-width: 580px) {
+    .text-biasa-cok {
+        font-size: 32px;
+    }
+    .stake h4 {
+        font-size: 22px;
+    }
+}

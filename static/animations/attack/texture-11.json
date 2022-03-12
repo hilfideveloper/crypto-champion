@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "attack_laugh_076.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 679,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 165,
+        "y": 260,
+        "w": 679,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_077.png": {
+      "frame": {
+        "x": 0,
+        "y": 612,
+        "w": 680,
+        "h": 611
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 163,
+        "y": 261,
+        "w": 680,
+        "h": 611
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_078.png": {
+      "frame": {
+        "x": 0,
+        "y": 1223,
+        "w": 684,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 156,
+        "y": 263,
+        "w": 684,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_079.png": {
+      "frame": {
+        "x": 679,
+        "y": 0,
+        "w": 690,
+        "h": 600
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 137,
+        "y": 272,
+        "w": 690,
+        "h": 600
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_080.png": {
+      "frame": {
+        "x": 680,
+        "y": 600,
+        "w": 670,
+        "h": 588
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 284,
+        "w": 670,
+        "h": 588
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_084.png": {
+      "frame": {
+        "x": 1369,
+        "y": 0,
+        "w": 540,
+        "h": 684
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 188,
+        "w": 540,
+        "h": 684
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_085.png": {
+      "frame": {
+        "x": 684,
+        "y": 1188,
+        "w": 562,
+        "h": 680
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 192,
+        "w": 562,
+        "h": 680
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_086.png": {
+      "frame": {
+        "x": 1350,
+        "y": 684,
+        "w": 579,
+        "h": 673
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 199,
+        "w": 579,
+        "h": 673
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack_laugh_087.png": {
+      "frame": {
+        "x": 1350,
+        "y": 1357,
+        "w": 579,
+        "h": 677
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 195,
+        "w": 579,
+        "h": 677
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 900
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture-11.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1929,
+      "h": 2034
+    },
+    "scale": 1
+  }
+}
